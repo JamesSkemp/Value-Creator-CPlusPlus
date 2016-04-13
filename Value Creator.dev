@@ -1,0 +1,12 @@
+[Project]
+FileName=C:\Documents and Settings\jamesrskemp\My Documents\My Programming\Created Programs\Value Creator\Value Creator.dev
+Name=Value Creator
+Use_gpp=1
+UnitCount=1
+ResFiles=C:\Documents and Settings\jamesrskemp\My Documents\My Programming\Created Programs\Value Creator\rsrc.rc
+NoConsole=0
+IsDll=0
+Icon=C:\DEV-C_~1\Bin\Mainicon.ico
+[Unit1]
+FileName=C:\Documents and Settings\jamesrskemp\My Documents\My Programming\Created Programs\Value Creator\vc001.cpp
+FileTime=764317461
