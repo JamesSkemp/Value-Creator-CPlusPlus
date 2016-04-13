@@ -1,2 +1,2 @@
-# Value-Creator-CPlusPlus
+# Value Creator
 Old C++ application.
